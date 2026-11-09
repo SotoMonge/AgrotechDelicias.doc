@@ -91,3 +91,24 @@ Add your database connection strings and external API credentials:
    ng serve
    ```
    The application will be accessible locally at `http://localhost:4200`.
+
+
+   ---
+
+## 🔒 License & Intellectual Property
+
+This project is **private** and its source code is confidential. Unauthorized copying, distribution, modification, or public disclosure of this file and its accompanying code via any medium is strictly prohibited. 
+
+All rights reserved to the repository owner.
+
+---
+
+## 📬 Contact & Inquiries
+
+If you require further information about this project, access to specific modules, or technical documentation, please contact the author directly:
+
+*   **Repository Owner:** Jesús Manuel Soto Monge
+*   **Email:** jssoto225@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/jesús-manuel-soto-monge
+
+
